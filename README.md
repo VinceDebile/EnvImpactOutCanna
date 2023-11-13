@@ -8,3 +8,5 @@ Details of Life-cycle inventory (LCI) can be found by following formulas in the 
 The first excel worksheet has all references embeded, for verification of values using "Manuscript" as a reference, please refer
 
 To the second worksheet "Biomass 3 yr.xlsx" which are raw data from the 3-year field trial.
+
+OpenLCA files containing process trees, flows etc. are found in the "EnvImpactOutdoorCannabis.zip" file
